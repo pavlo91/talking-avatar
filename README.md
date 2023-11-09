@@ -16,4 +16,4 @@ $ yarn start
 ```
 
 ## Backend
-You'll also need https://github.com/bornfree/talking_avatar_backend for the text to speech conversion.
+You'll also need https://github.com/mykytakopnin93/talking_avatar_backend for the text to speech conversion.
